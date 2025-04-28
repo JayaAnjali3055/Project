@@ -1,1 +1,1 @@
-# Project
+cd path/to/your/project
